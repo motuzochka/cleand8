@@ -1,0 +1,14 @@
+uuid: 66ba80df-43bc-4b6f-a906-a61bda744c51
+name: 'Clean D8'
+mail: cleand8@mail.loc
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
