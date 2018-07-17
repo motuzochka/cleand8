@@ -1,0 +1,21 @@
+uuid: 39bba8ac-81c3-4d03-bf71-dc12d20d3bbd
+langcode: en
+status: true
+dependencies:
+  module:
+    - cust
+  theme:
+    - bartik
+id: myblock
+theme: bartik
+region: content
+weight: 0
+provider: null
+plugin: my_block
+settings:
+  id: my_block
+  label: 'My block'
+  provider: cust
+  label_display: visible
+  simple_textfield: 'Integer ante arcu accumsan a'
+visibility: {  }

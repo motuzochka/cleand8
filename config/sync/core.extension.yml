@@ -13,6 +13,7 @@ module:
   config: 0
   contact: 0
   contextual: 0
+  cust: 0
   datetime: 0
   dblog: 0
   dynamic_page_cache: 0
@@ -21,7 +22,9 @@ module:
   field: 0
   field_ui: 0
   file: 0
+  file_example: 0
   filter: 0
+  form_api_example: 0
   help: 0
   history: 0
   image: 0
@@ -36,6 +39,7 @@ module:
   rdf: 0
   search: 0
   shortcut: 0
+  stream_wrapper_example: 0
   system: 0
   taxonomy: 0
   text: 0
