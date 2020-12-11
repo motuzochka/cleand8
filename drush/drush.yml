@@ -1,0 +1,13 @@
+#
+# A Drush configuration file
+#
+# Docs at https://github.com/drush-ops/drush/blob/master/examples/example.drush.yml
+#
+# Edit or remove this file as needed.
+
+drush:
+  paths:
+    # Specify config files to load.
+    config:
+      # Load any personal config files. Is silently skipped if not found. Filename must be drush.yml
+      - drush.local.yml
